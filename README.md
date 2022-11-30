@@ -11,7 +11,7 @@ for i in {0..49}; do python3 -m moiptimiser ../tests/examples/zgenerator/KP_6_10
 ### Training
 
 ```
-run_to_test_batch.ipynb
+nohup python3 branch2learn_global_attention_abl_ap/02_train.py -p KP -m "gin1" > XXX.log 2>&1 &
 ```
 
 ### Please refer to the ODA which our method is built on
