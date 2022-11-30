@@ -1,7 +1,7 @@
 # Graph-learning-to-accelarate-MOIP
 
 
-Run the following to generate KP instances in KP file. (cd tests/examples/zgenerator)
+Run the following to generate KP instances in KP file. (cd python-moiptimiser/tests/examples/zgenerator)
 ```
 for i in {0..49}; do python3 generate_KP.py KP/3KP-100-$i.lp 100 3; done
 ```
