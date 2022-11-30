@@ -1,0 +1,160 @@
+[07-29 00:48:03.99] Model:   gin1
+[07-29 00:48:03.99] Problem: AP
+[07-29 00:48:03.99] Device:  cuda
+[07-29 00:48:03.99] Lr:      0.001
+[07-29 00:48:03.99] Epochs:  100
+[07-29 00:48:05.49] Training with 250000 samples, validating with 5484 samples
+[07-29 00:48:05.50] Beginning training
+[07-29 02:07:24.92] Train loss: 0.682, accuracy 0.587
+[07-29 02:09:43.41] Valid loss: 0.681, accuracy 0.602
+[07-29 02:09:43.42] Epoch 1
+[07-29 02:51:17.50] Train loss: 0.561, accuracy 0.691
+[07-29 02:52:02.43] Valid loss: 0.567, accuracy 0.695
+[07-29 02:52:02.44]   best model so far
+[07-29 02:52:02.44] Epoch 2
+[07-29 03:33:46.41] Train loss: 0.557, accuracy 0.692
+[07-29 03:34:31.39] Valid loss: 0.563, accuracy 0.691
+[07-29 03:34:31.40]   best model so far
+[07-29 03:34:31.40] Epoch 3
+[07-29 04:16:16.09] Train loss: 0.555, accuracy 0.692
+[07-29 04:17:01.45] Valid loss: 0.563, accuracy 0.691
+[07-29 04:17:01.45] Epoch 4
+[07-29 04:58:40.97] Train loss: 0.555, accuracy 0.692
+[07-29 04:59:26.16] Valid loss: 0.562, accuracy 0.692
+[07-29 04:59:26.17]   best model so far
+[07-29 04:59:26.17] Epoch 5
+[07-29 05:41:06.72] Train loss: 0.527, accuracy 0.705
+[07-29 05:41:51.50] Valid loss: 0.427, accuracy 0.762
+[07-29 05:41:51.51]   best model so far
+[07-29 05:41:51.51] Epoch 6
+[07-29 06:23:34.16] Train loss: 0.439, accuracy 0.766
+[07-29 06:24:18.89] Valid loss: 0.420, accuracy 0.774
+[07-29 06:24:18.90]   best model so far
+[07-29 06:24:18.90] Epoch 7
+[07-29 07:05:52.48] Train loss: 0.430, accuracy 0.780
+[07-29 07:06:37.14] Valid loss: 0.428, accuracy 0.773
+[07-29 07:06:37.14] Epoch 8
+[07-29 07:48:11.52] Train loss: 0.427, accuracy 0.782
+[07-29 07:48:56.47] Valid loss: 0.406, accuracy 0.790
+[07-29 07:48:56.48]   best model so far
+[07-29 07:48:56.48] Epoch 9
+[07-29 08:30:28.75] Train loss: 0.422, accuracy 0.787
+[07-29 08:31:13.72] Valid loss: 0.395, accuracy 0.797
+[07-29 08:31:13.73]   best model so far
+[07-29 08:31:13.73] Epoch 10
+[07-29 09:12:41.15] Train loss: 0.418, accuracy 0.789
+[07-29 09:13:25.91] Valid loss: 0.399, accuracy 0.796
+[07-29 09:13:25.91] Epoch 11
+[07-29 09:54:55.33] Train loss: 0.414, accuracy 0.791
+[07-29 09:55:40.07] Valid loss: 0.388, accuracy 0.809
+[07-29 09:55:40.08]   best model so far
+[07-29 09:55:40.08] Epoch 12
+[07-29 10:37:05.14] Train loss: 0.413, accuracy 0.792
+[07-29 10:37:50.20] Valid loss: 0.393, accuracy 0.799
+[07-29 10:37:50.20] Epoch 13
+[07-29 11:19:24.54] Train loss: 0.411, accuracy 0.792
+[07-29 11:20:09.89] Valid loss: 0.386, accuracy 0.802
+[07-29 11:20:09.89]   best model so far
+[07-29 11:20:09.89] Epoch 14
+[07-29 12:01:38.32] Train loss: 0.409, accuracy 0.794
+[07-29 12:02:22.90] Valid loss: 0.382, accuracy 0.811
+[07-29 12:02:22.90]   best model so far
+[07-29 12:02:22.90] Epoch 15
+[07-29 12:43:47.59] Train loss: 0.408, accuracy 0.795
+[07-29 12:44:32.26] Valid loss: 0.381, accuracy 0.810
+[07-29 12:44:32.27]   best model so far
+[07-29 12:44:32.27] Epoch 16
+[07-29 13:26:00.51] Train loss: 0.408, accuracy 0.795
+[07-29 13:26:45.79] Valid loss: 0.393, accuracy 0.801
+[07-29 13:26:45.79] Epoch 17
+[07-29 14:08:12.72] Train loss: 0.406, accuracy 0.795
+[07-29 14:08:57.56] Valid loss: 0.382, accuracy 0.809
+[07-29 14:08:57.56] Epoch 18
+[07-29 14:50:27.00] Train loss: 0.408, accuracy 0.794
+[07-29 14:51:11.92] Valid loss: 0.382, accuracy 0.804
+[07-29 14:51:11.92] Epoch 19
+[07-29 15:32:41.82] Train loss: 0.406, accuracy 0.795
+[07-29 15:33:26.69] Valid loss: 0.385, accuracy 0.806
+[07-29 15:33:26.69] Epoch 20
+[07-29 16:15:02.75] Train loss: 0.405, accuracy 0.796
+[07-29 16:15:47.78] Valid loss: 0.380, accuracy 0.812
+[07-29 16:15:47.79]   best model so far
+[07-29 16:15:47.79] Epoch 21
+[07-29 16:57:27.69] Train loss: 0.405, accuracy 0.796
+[07-29 16:58:12.83] Valid loss: 0.377, accuracy 0.814
+[07-29 16:58:12.84]   best model so far
+[07-29 16:58:12.84] Epoch 22
+[07-29 17:39:47.65] Train loss: 0.404, accuracy 0.797
+[07-29 17:40:32.37] Valid loss: 0.383, accuracy 0.809
+[07-29 17:40:32.37] Epoch 23
+[07-29 18:22:07.82] Train loss: 0.403, accuracy 0.797
+[07-29 18:22:52.97] Valid loss: 0.384, accuracy 0.813
+[07-29 18:22:52.97] Epoch 24
+[07-29 19:04:32.90] Train loss: 0.403, accuracy 0.797
+[07-29 19:05:18.04] Valid loss: 0.378, accuracy 0.815
+[07-29 19:05:18.04] Epoch 25
+[07-29 19:46:59.54] Train loss: 0.403, accuracy 0.797
+[07-29 19:47:44.94] Valid loss: 0.380, accuracy 0.812
+[07-29 19:47:44.94] Epoch 26
+[07-29 20:29:25.48] Train loss: 0.402, accuracy 0.798
+[07-29 20:30:10.91] Valid loss: 0.384, accuracy 0.808
+[07-29 20:30:10.91] Epoch 27
+[07-29 21:11:53.39] Train loss: 0.401, accuracy 0.798
+[07-29 21:12:38.78] Valid loss: 0.372, accuracy 0.817
+[07-29 21:12:38.79]   best model so far
+[07-29 21:12:38.79] Epoch 28
+[07-29 21:54:21.47] Train loss: 0.402, accuracy 0.797
+[07-29 21:55:06.63] Valid loss: 0.380, accuracy 0.803
+[07-29 21:55:06.63] Epoch 29
+[07-29 22:36:43.85] Train loss: 0.402, accuracy 0.798
+[07-29 22:37:29.25] Valid loss: 0.380, accuracy 0.806
+[07-29 22:37:29.25] Epoch 30
+[07-29 23:19:10.67] Train loss: 0.401, accuracy 0.798
+[07-29 23:19:55.68] Valid loss: 0.374, accuracy 0.817
+[07-29 23:19:55.68] Epoch 31
+[07-30 00:01:35.53] Train loss: 0.400, accuracy 0.798
+[07-30 00:02:20.82] Valid loss: 0.375, accuracy 0.814
+[07-30 00:02:20.82] Epoch 32
+[07-30 00:43:57.84] Train loss: 0.402, accuracy 0.798
+[07-30 00:44:42.71] Valid loss: 0.378, accuracy 0.813
+[07-30 00:44:42.71] Epoch 33
+[07-30 01:24:43.63] Train loss: 0.402, accuracy 0.798
+[07-30 01:25:27.50] Valid loss: 0.378, accuracy 0.807
+[07-30 01:25:27.50] Epoch 34
+[07-30 02:05:29.27] Train loss: 0.401, accuracy 0.798
+[07-30 02:06:13.09] Valid loss: 0.378, accuracy 0.809
+[07-30 02:06:13.09] Epoch 35
+[07-30 02:46:12.82] Train loss: 0.401, accuracy 0.798
+[07-30 02:46:56.65] Valid loss: 0.377, accuracy 0.810
+[07-30 02:46:56.65]   8 epochs without improvement, decrease lr to 0.0002
+[07-30 02:46:56.65] Epoch 36
+[07-30 03:26:55.56] Train loss: 0.400, accuracy 0.798
+[07-30 03:27:39.21] Valid loss: 0.375, accuracy 0.815
+[07-30 03:27:39.21] Epoch 37
+[07-30 04:07:38.66] Train loss: 0.395, accuracy 0.801
+[07-30 04:08:22.33] Valid loss: 0.370, accuracy 0.812
+[07-30 04:08:22.34]   best model so far
+[07-30 04:08:22.34] Epoch 38
+[07-30 04:48:19.88] Train loss: 0.394, accuracy 0.802
+[07-30 04:49:03.44] Valid loss: 0.368, accuracy 0.818
+[07-30 04:49:03.45]   best model so far
+[07-30 04:49:03.45] Epoch 39
+[07-30 05:29:03.68] Train loss: 0.393, accuracy 0.802
+[07-30 05:29:47.45] Valid loss: 0.370, accuracy 0.815
+[07-30 05:29:47.45] Epoch 40
+[07-30 06:09:45.62] Train loss: 0.393, accuracy 0.802
+[07-30 06:10:29.13] Valid loss: 0.369, accuracy 0.817
+[07-30 06:10:29.13] Epoch 41
+[07-30 06:50:29.15] Train loss: 0.393, accuracy 0.803
+[07-30 06:51:12.95] Valid loss: 0.369, accuracy 0.815
+[07-30 06:51:12.95] Epoch 42
+[07-30 07:31:12.02] Train loss: 0.393, accuracy 0.802
+[07-30 07:31:55.59] Valid loss: 0.370, accuracy 0.817
+[07-30 07:31:55.59] Epoch 43
+[07-30 08:11:56.92] Train loss: 0.392, accuracy 0.803
+[07-30 08:12:40.57] Valid loss: 0.369, accuracy 0.818
+[07-30 08:12:40.57] Epoch 44
+[07-30 08:52:38.44] Train loss: 0.392, accuracy 0.803
+[07-30 08:53:22.05] Valid loss: 0.365, accuracy 0.818
+[07-30 08:53:22.06]   best model so far
+[07-30 08:53:22.06] Epoch 45
