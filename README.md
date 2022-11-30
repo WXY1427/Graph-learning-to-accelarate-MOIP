@@ -1,13 +1,12 @@
 # Graph-learning-to-accelarate-MOIP
 
 
-### To generate instances 0...49 in folder KP-6-100 by solving each with 1000s
-
+Run the following to generate KP instances in KP file. (cd tests/examples/zgenerator)
 ```
-for i in {0..49}; do python3 -m moiptimiser ../tests/examples/zgenerator/KP_6_100/6KP-100-$i.lp --runtime=1000; done
+for i in {0..49}; do python3 generate_KP.py KP/3KP-100-$i.lp 100 3; done
 ```
 
-### To solve instances 0...49 in folder KP with 1000s to collect training data
+### To solve instances 0...49 in folder KP with 1000s for training data collection
 
 ```
 for i in {0..49}; do python3 -m moiptimiser ../tests/examples/zgenerator/KP/3KP-100-$i.lp --runtime=1000; done
