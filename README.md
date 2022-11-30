@@ -8,10 +8,10 @@
 for i in {0..49}; do python3 -m moiptimiser ../tests/examples/zgenerator/KP_6_100/6KP-100-$i.lp --runtime=1000; done
 ```
 
-### Training
+### Training on Knapsack with two-stage gnn
 
 ```
-nohup python3 branch2learn_global_attention_abl_ap/02_train.py -p KP -m "gin1" > XXX.log 2>&1 &
+nohup python3 branch2learn_global_attention_gat_b/02_train.py -p KP -m "gin1" > XXX.log 2>&1 &
 ```
 
 ### Please refer to the ODA which our method is built on
