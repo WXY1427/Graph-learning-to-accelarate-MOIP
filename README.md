@@ -1,4 +1,4 @@
-# Graph-learning-to-accelarate-MOIP
+# Graph-learning-to-accelerate-MOIP
 
 ### Paper
 
