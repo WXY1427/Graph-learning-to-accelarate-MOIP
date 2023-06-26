@@ -1,6 +1,11 @@
 # Graph-learning-to-accelarate-MOIP
 
+## Paper
+```
+Wu, Yaoxin, Wen Song, Zhiguang Cao, Jie Zhang, Abhishek Gupta, and Mingyan Lin. "Graph Learning Assisted Multi-Objective Integer Programming." Advances in Neural Information Processing Systems 35 (2022): 17774-17787.
+```
 
+### To generate instances
 Run the following to generate KP instances in KP file. (cd python-moiptimiser/tests/examples/zgenerator)
 ```
 for i in {0..49}; do python3 generate_KP.py KP/3KP-100-$i.lp 100 3; done
