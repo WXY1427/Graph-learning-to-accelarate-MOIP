@@ -1,6 +1,6 @@
 # Graph-learning-to-accelarate-MOIP
 
-## Paper
+### Paper
 
 Wu, Yaoxin, Wen Song, Zhiguang Cao, Jie Zhang, Abhishek Gupta, and Mingyan Lin. "Graph Learning Assisted Multi-Objective Integer Programming." Advances in Neural Information Processing Systems 35 (2022): 17774-17787.
 
