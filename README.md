@@ -26,6 +26,4 @@ nohup python3 branch2learn_global_attention_gat_b/02_train.py -p KP -m "gin1" > 
 
 https://github.com/bayan/python-moiptimiser
 
-### Updating
 
-The repository is being updated ...
